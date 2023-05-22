@@ -6,8 +6,8 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/kgazzi)
 
 <div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kgazineu&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&theme=dracula"/> 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgazineu&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&theme=dracula" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=kgazineu&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&theme=dracula"/> 
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgazineu&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&theme=dracula" />
 </div>
 
 
