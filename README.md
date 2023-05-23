@@ -1,5 +1,16 @@
-## Olá! Eu sou Kaian Gazineu 🖐
-### Seja bem-vindo 🙂
+# Olá! Eu sou Kaian Gazineu 🖐
+
+## Um pouco sobre mim: 
+
+👨‍🎓 Graduando em Ciência e Tecnologia na UFBA
+
+🤝 Trainee de Dev na TITAN - Empresa Júnior de Engenharia da Computação [<img align="center" width="6%" src="https://titanci.com.br/assets/img/logo-com-nome.png"/>](https://titanci.com.br)<br />
+
+💻 Desenvolvedora Back-End
+
+❤️ Apaixonado por tecnologia, programação e as possibilidades através desse universo
+
+## 📫 Redes-Sociais: 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kgazineu/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaian-gazineu-7815b4230/)
@@ -11,7 +22,7 @@
 </div>
 
 
-## Tecnologias mais usadas
+## Conhecimento básico:
 
 <div style="display: inline_block">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -19,6 +30,8 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div><br/>
 
  ## Estudando atualmente
