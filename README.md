@@ -6,7 +6,7 @@
 
 🤝 Trainee de Dev na TITAN - Empresa Júnior de Engenharia da Computação [<img align="center" width="6%" src="https://titanci.com.br/assets/img/logo-com-nome.png"/>](https://titanci.com.br)<br />
 
-💻 Desenvolvedora Back-End
+💻 Desenvolvedor Back-End
 
 ❤️ Apaixonado por tecnologia, programação e as possibilidades através desse universo
 
