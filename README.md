@@ -4,7 +4,7 @@
 
 👨‍🎓 Graduando em Ciência e Tecnologia na UFBA
 
-🤝 Trainee de Dev na TITAN - Empresa Júnior de Engenharia da Computação [<img align="center" width="6%" src="https://titanci.com.br/assets/img/logo-com-nome.png"/>](https://titanci.com.br)<br />
+🤝 Dev na TITAN - Empresa Júnior de Engenharia da Computação [<img align="center" width="6%" src="https://titanci.com.br/assets/img/logo-com-nome.png"/>](https://titanci.com.br)<br />
 
 💻 Desenvolvedor Back-End
 
