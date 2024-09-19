@@ -21,12 +21,17 @@
 <br/>
 
 [<img align="left" height="94px" width="95px" alt="Warpnet" style="padding-right: 10px" src="https://i.postimg.cc/MTVRBN1C/TITAN.png"/>](https://titanci.com.br)
-**Desenvolvedora de Software** \
+**Desenvolvedor de Software** \
 [**TITAN - Empresa Júnior de Engenharia da Computação da UFBA**](https://titanci.com.br)  \
 apr 2023 - o momento \
 Linguagens & Tecnologias: `JavaScript`, `Next.js` ,`Fastify`,`TypeScript`, `Node.js`, `Prisma`, `Strapi`, `Postgresql`, `Zod`
+<br/> <br/>
+[<img align="left" height="94px" width="95px" alt="Warpnet" style="padding-right: 10px" src="https://wtr.pop-ba.rnp.br/2019/images/parceiros/apoio/STI.png"/>](https://sti.ufba.br)
+**Desenvolvedor de Software**\
+[**STI UFBA - Superintendencia de Tecnologia da Informação da UFBA**](https://www.sti.ufba.br/)  \
+aug 2024 - o momento \
+Linguagens & Tecnologias: `Java`, `Spring` ,`JSP`,`Servlet`
 <br/>
-
 ##
 
 <br/>
