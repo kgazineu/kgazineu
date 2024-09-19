@@ -6,11 +6,11 @@
 
 ## Linguagens que utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,py)](https://skillicons.dev)
 
 ## Frameworks e ferramentas que utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,selenium,nodejs,nestjs,express,fastapi,vitest,jest,postgres,prisma,postman,vscode,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,selenium,spring,nestjs,express,fastapi,vitest,jest,postgres,prisma,postman,git,linux)](https://skillicons.dev)
 
 ## Estudando sobre:
 
