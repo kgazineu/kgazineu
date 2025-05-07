@@ -10,11 +10,11 @@
 
 ## Frameworks e ferramentas que utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,spring,nestjs,express,fastapi,vitest,jest,postgres,prisma,postman,git,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,aws,spring,java,nestjs,express,fastapi,vitest,jest,postgres,prisma,postman,git,linux)](https://skillicons.dev)
 
 ## Estudando sobre:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,java,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
 
 ## Experiência Profissional:
 
