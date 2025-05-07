@@ -14,7 +14,7 @@
 
 ## Estudando sobre:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,java,cs,dotnet)](https://skillicons.dev)
 
 ## Experiência Profissional:
 
