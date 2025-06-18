@@ -1,6 +1,6 @@
 ## Olá, eu sou Kaian Gazineu 👋
 
-- 💻 Desenvolvedor Back End
+- 💻 Desenvolvedor Back-end
 - 👨‍🎓 Graduando em Ciência e Tecnologia na UFBA
 - :envelope_with_arrow: Email: kaiangazineu@gmail.com ou kaiangazineu@ufba.br
 
