@@ -1,45 +1,36 @@
-## Olá, eu sou Kaian Gazineu 👋
+Hi, I'm Kaian Gazineu 👋
+💻 Consultant Software Engineer at ThoughtWorks
+👨‍🎓 B.S. in Science and Technology from UFBA
+☁️ 2x AWS Certified
+📧 Hit me up on LinkedIn or email
+Languages I use:
+My Skills
 
-- 💻 Desenvolvedor Back-end
-- 👨‍🎓 Graduando em Ciência e Tecnologia na UFBA
-- :envelope_with_arrow: Email: kaiangazineu@gmail.com ou kaiangazineu@ufba.br
+Frameworks and tools I use:
+My Skills
 
-## Linguagens que utilizo:
+Currently learning:
+Spec Driven Development (SDD)
+Behavior Driven Development (BDD)
+Sustainable Software Engineering Practices (Green Software)
+Professional Experience:
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,py)](https://skillicons.dev)
+ThoughtWorksConsultant Software Engineer
+ThoughtWorks
+Aug 2025 - Present
+Languages & Technologies: Java, Spring Boot, C#, .NET, React, Next.js, AWS, Azure
 
-## Frameworks e ferramentas que utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,aws,spring,java,nestjs,express,fastapi,vitest,jest,postgres,prisma,postman,git,linux)](https://skillicons.dev)
+WarpnetDirector of Software Development
+TITAN - Computer Engineering Junior Enterprise at UFBA
+Feb 2025 - Feb 2026
+Languages & Technologies: JavaScript, Next.js ,Fastify,TypeScript, Node.js, Prisma, Strapi, Postgresql, Zod
 
-## Estudando sobre:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev)
+WarpnetSoftware Developer
+STI UFBA - Information Technology Superintendence at UFBA
+Aug 2024 - Aug 2025
+Languages & Technologies: Java, Spring ,JSP,Servlet
 
-## Experiência Profissional:
 
-<br/>
-
-[<img align="left" height="94px" width="95px" alt="Warpnet" style="padding-right: 10px" src="https://i.postimg.cc/MTVRBN1C/TITAN.png"/>](https://titanci.com.br)
-**Desenvolvedor de Software** \
-[**TITAN - Empresa Júnior de Engenharia da Computação da UFBA**](https://titanci.com.br)  \
-apr 2023 - o momento \
-Linguagens & Tecnologias: `JavaScript`, `Next.js` ,`Fastify`,`TypeScript`, `Node.js`, `Prisma`, `Strapi`, `Postgresql`, `Zod`
-<br/> <br/>
-[<img align="left" height="94px" width="95px" alt="Warpnet" style="padding-right: 10px" src="https://wtr.pop-ba.rnp.br/2019/images/parceiros/apoio/STI.png"/>](https://sti.ufba.br)
-**Desenvolvedor de Software**\
-[**STI UFBA - Superintendencia de Tecnologia da Informação da UFBA**](https://www.sti.ufba.br/)  \
-aug 2024 - o momento \
-Linguagens & Tecnologias: `Java`, `Spring` ,`JSP`,`Servlet`
-<br/>
-##
-
-<br/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kgazineu&theme=react-dark)](https://github.com/kgazineu/github-readme-activity-graph)
-
-<div align="center">
-  <a href="https://github.com/kgazineu">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=kgazineu&show_icons=true&count_private=true&hide_border=true&title_color=ff6e96&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Icaro Cedraz Github stats" />
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgazineu&layout=compact&hide_border=true&title_color=ff6e96&text_color=ff91a4&bg_color=0d1117" />
-</div>
+Ashutosh's github activity graph
