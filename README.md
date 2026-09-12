@@ -7,7 +7,7 @@
 
 ## Languages I use:
 
-[![My Skills](https://skillicons.dev/icons?i=java,cs,js,ts,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cs,ts,py,go)](https://skillicons.dev)
 
 ## Frameworks and tools I use:
 
@@ -15,9 +15,9 @@
 
 ## Currently learning:
 
-- Spec Driven Development (SDD)
+- Advanced Cloud Architecture
+- Cloud Native Patterns
 - Behavior Driven Development (BDD)
-- Sustainable Software Engineering Practices (Green Software)
 
 ## Professional Experience:
 
@@ -46,5 +46,3 @@ Languages & Technologies: `Java`, `Spring` ,`JSP`,`Servlet`
 ##
 
 <br/>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kgazineu&theme=react-dark)](https://github.com/kgazineu/github-readme-activity-graph)
